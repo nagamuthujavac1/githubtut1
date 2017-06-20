@@ -1,2 +1,2 @@
 # githubtut1
-GitHub Tutorial 1
+This is for tutorial purpose.
